@@ -522,6 +522,9 @@
 # 31264 Dudetronics NXDN
 31264	nxdn.dudetronics.com	41400
 
+# 31337 SWLA-LINK
+31337	bridge.swlalink.com	41400
+
 # 31340 Central New Jersey
 31340	nxdn-31340.k2dls.net	41400
 
